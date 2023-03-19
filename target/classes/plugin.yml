@@ -1,6 +1,0 @@
-name: DonateMenu
-version: 1.0
-author: murphyy
-main: com.murphyy.DonateMenu
-api-version: 1.15
-description: A plugin that adds a donate menu for Minecraft 1.15.1
